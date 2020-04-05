@@ -1,6 +1,7 @@
 # Credit-Union-on-Blockchain---A-new-financial-Cooperative-system-based-Permissioned-Blockchain
 
-Current financial cooperative institutions have a system that operates on a centralized network, thus bringing many problems to meet the needs of our generation. These problems are numerous to name; we cite few; the fragility of the system in the face of cyber attack due to its centralized character, the not transparency of the data to all the members of the policy does not describe the cooperative nature of the institutions proper, we can quote from it again and again without stopping. To solve these problems, our research project ground on a network system designed from blockchain technology based on a smart contract, precisely of permissioned blockchain using the hyperledger fabric framework. From the work of Hao Wang, Chaonian Guo, Shuhan Cheng about a new financial loan management system based on smart contracts as the case study. Through the study of the private blockchain algorithm, we will discover the secure nature of this new type of network as well as its transparency to all members having access to it, and we can connect a decentralized network to a more centralized network.
+Everyone needs help at one point or another. The same is true for financial help, for this reason most people rely on loans to satisfy their financial needs. “Loans to Private Sector in the United States averaged 619.94 USD Billion from 1950 until 2020, reaching an all time high of 2364.08 USD Billion in August of 2019 and a record low of 13.65 USD Billion in January of 1950”Trading Economics, To satisfy this growing demand of loan, banks and Credit Union offer financial services such as saving accounts, loans and the possibility of transferring money one to another. This project focuses on developing a web blockchain application which allows individuals  to create or join a group where they will be able to save money, borrow to/from one another, while keeping track of every transaction without a third party. We will build a digital web application with a database built on permissioned blockchain using smart contracts. “Permissioned blockchain restricts the actors who can contribute to the consensus of the system state. … secure the interactions among a group of entities that have a common goal but which do not fully trust each other, such as businesses that exchange funds (finance), goods (supply chain), or information (public service). By relying on the identities of the peers, a permissioned blockchain can use traditional Byzantine-fault tolerant (BFT), RAFT, or Paxos consensus.”Guo, C., Ma, S., Wang, H., Cheng, S., & Wang, basing our web application database on permissioned blockchain gives the security, transparency and transability to the loan system.
+
 
 WEEKLY PROGRESS REPORTS
 
@@ -18,10 +19,32 @@ Status Report:
 - Build the smart contract algorighm.
 - start the front-end user using Html, Css and javascript.
 
-Week 3 or next week
-Plan
+Week 3 
+status Report
 
 - Build  first demo of the Hyperledger ledger network
 - finish the smart contract algorithm and digitla signature algorithm
 - first Demo of the project.
 - more design on the front-end user.
+
+Week 4
+status Report
+
+- More front end feature added: user sign, user sign up, user account info pages added to the front end design
+- Financial functions created on the smart contracts scripts
+- Network configured with one peer, one organization and one orderer with a default Certificate authority
+
+week 5
+status Report
+
+- More organization added to the network
+- Channels has been created by bundling several smart contracts script into a groups of channels
+- Fabric CA replace the Default Certificate Authority 
+- Implementation of the Hyperledger Fabric App into vs code with IBM extension
+- More front end user bugs find 
+
+week 6
+plan
+ 
+- Implementation of CoughDB CA for Data base and front end user bugs fixed
+- test of the App with some videos recorded
