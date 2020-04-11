@@ -24,7 +24,6 @@ status Report
 
 - Build  first demo of the Hyperledger ledger network
 - finish the smart contract algorithm and digitla signature algorithm
-- first Demo of the project.
 - more design on the front-end user.
 
 Week 4
@@ -46,5 +45,11 @@ status Report
 week 6
 plan
  
-- Implementation of CoughDB CA for Data base and front end user bugs fixed
+- Implementation of all the certificte
 - test of the App with some videos recorded
+- implementation of the register member into the smart contract script
+- Login page for client application 
+- server configuration 
+- network configuration using fabric-network template
+- smart contract installed and instiate in 1 Org fabric environment
+- wallet and 1 Org fabric network profile export into the server configuration
