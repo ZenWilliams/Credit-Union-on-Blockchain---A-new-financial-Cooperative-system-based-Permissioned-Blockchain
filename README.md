@@ -53,3 +53,24 @@ plan
 - network configuration using fabric-network template
 - smart contract installed and instiate in 1 Org fabric environment
 - wallet and 1 Org fabric network profile export into the server configuration
+
+week 7
+plan
+
+- Transfer Asset implemented into the smart contract script
+- Dashlab, AddAsset and Transfer Vue instance added to the client app
+- record activity added into the smart contract paackages
+- last bugs fixed
+
+next week
+plan(final implementation of the app with test)
+
+- financial function loan create and add to the smart contract script
+- Loan instance vue add to the client
+- server configuration to add more Org environment
+- Group object add to the smart contract script
+- video record of the test made 
+- research paper
+- documentation 
+- Dashlab update
+
