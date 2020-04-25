@@ -62,15 +62,48 @@ plan
 - record activity added into the smart contract paackages
 - last bugs fixed
 
-next week
-plan(final implementation of the app with test)
+week 8
+plan
 
-- financial function loan create and add to the smart contract script
-- Loan instance vue add to the client
-- server configuration to add more Org environment
-- Group object add to the smart contract script
-- video record of the test made 
-- research paper
-- documentation 
-- Dashlab update
+- Group object added in the smart contract package.
+- Loan function and loan object added
+
+week 9
+plan
+
+- test script added to test all functions into the smart contract script
+- Create Group vue instance added into the front end 
+
+week 10
+plan
+
+- new fabric environment created and added to the network
+- Kafka cluster install into the smart contract package for multiple environment 
+
+week 11
+plan
+
+- Documentation started for the contract and added into the github account
+- Loan vue instance started for user transactions with a group
+- some bugs fixed.
+
+week 12
+plan
+
+- research paper started
+- more implementation into the user transaction of assets
+- Loan Vue instance finish
+- smart contract install on multi-peer and endorser customized to have a personnal endorser for the transaction invoked
+
+week 13
+plan(final implementation of the app with test)next week
+
+- application tested and last bugs fixed.
+- video recorded with test
+- finish of the documentation
+- finish of the research paper
+- project submitted
+
+week 14
+plan
 
