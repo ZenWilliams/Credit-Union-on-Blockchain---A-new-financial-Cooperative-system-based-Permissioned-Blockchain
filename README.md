@@ -96,7 +96,7 @@ plan
 - smart contract install on multi-peer and endorser customized to have a personnal endorser for the transaction invoked
 
 week 13
-plan(final implementation of the app with test)next week
+plan
 
 - application tested and last bugs fixed.
 - video recorded with test
@@ -106,4 +106,7 @@ plan(final implementation of the app with test)next week
 
 week 14
 plan
+
+-Presentation
+-documentation
 
